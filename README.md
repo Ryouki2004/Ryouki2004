@@ -1,5 +1,7 @@
+
 ## 🌐 Socials:
-[!Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ryan.navarra.133611) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ryan.navarra.133611?mibextid=rS40aB7S9Ucbxw6v) 
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-navarra-a3005a287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
